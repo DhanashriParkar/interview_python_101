@@ -1,0 +1,330 @@
+Column: sofifa_id
+Description: Sample values: 202126, 215914, 165153, 192119, 200104, 200145, 2033376, 218722, 209331, 210257, 212622
+------------------------------------------------------------
+Column: player_url
+Description: Players from soccer league
+------------------------------------------------------------
+Column: short_name
+Description: Sample values for "short_name": W. Messi, C. Ronaldo, R. Lewandowski, C. Ronaldo, Neymar Jr., M. Neuer, M. ter Stegen
+------------------------------------------------------------
+Column: long_name
+Description: sample values for 'long_name' in ['Daily Live' at 01.08.1918', 'Bovet – 09.08.1941', 'N'Farland' at
+------------------------------------------------------------
+Column: player_positions
+Description: Sample values: 269 "N" position samples: "RW, S" position samples: "RC, RF, CAM, SP, LW, LW
+------------------------------------------------------------
+Column: overall
+Description: Sample Values: 88.8 (93.9, 290.0, 49.6, 73.0, 82.0, 61.0, 146.9, 119.1, 117.0, 153.10),
+------------------------------------------------------------
+Column: potential
+Description: A sample from the 'potential' column of the FIFA 22 season, and includes potential.
+------------------------------------------------------------
+Column: value_eur
+Description: Values for value_eur can be defined for value_eur using the value_eur operator.
+------------------------------------------------------------
+Column: wage_eur
+Description: 'Waitereur' is the only sample of the list of values under 'Wage_eur'.
+------------------------------------------------------------
+Column: age
+Description: To describe age, select the football club age value from the left column. To find the total number of years elapsed, select the game's time and date from the left column.
+------------------------------------------------------------
+Column: dob
+Description: A database for data from 27 football seasons.
+------------------------------------------------------------
+Column: height_cm
+Description: sample values: 181, 181, 182, 193, 168, 199, 183, 177, 191, 196, 184, 179, 194, 173, 172, 180
+------------------------------------------------------------
+Column: weight_kg
+Description: Weight_kg data shows heights in the 18-kilometer range.
+------------------------------------------------------------
+Column: club_team_id
+Description: a.a.0 club_team_id.asx - a.B.14 club_team_id.asx None of this field is from football code.asx 24
+------------------------------------------------------------
+Column: club_name
+Description: Football Data, such as the following team's names:
+------------------------------------------------------------
+Column: league_name
+Description: a football team from the Eredivisie
+------------------------------------------------------------
+Column: league_level
+Description: League Level
+------------------------------------------------------------
+Column: club_position
+Description: Figure below shows sample values from a football fixture identifying a number of club position matches.
+------------------------------------------------------------
+Column: club_jersey_number
+Description: sample values: 30.0, 6.6, 0, 14.0, 4.0, 11.0, 3.0, 60.0, 7.0, 20.0, 25, 5.0, 26.0
+------------------------------------------------------------
+Column: club_loaned_from
+Description: sample values: A.V. vs A.V. Sevilla FC vs A.D. Napoli Lazio Arsenal Manchester City A.F.C.
+------------------------------------------------------------
+Column: club_joined
+Description: The game for which the first club joining was considered is a match played by their team and the second a match played by the next.
+------------------------------------------------------------
+Column: club_contract_valid_until
+Description: Values in the 'club_contract_valid_until' column are the same for soccer matches up until 2029-01.
+------------------------------------------------------------
+Column: nationality_id
+Description: The country_id of a nationality in FIFA 22 must be a foreign country.
+------------------------------------------------------------
+Column: nationality_name
+Description: 
+------------------------------------------------------------
+Column: nation_team_id
+Description: The nationalteam team ID and national_team_id are used to determine the individual players.
+------------------------------------------------------------
+Column: nation_position
+Description: "Nation_position" can refer to:
+------------------------------------------------------------
+Column: nation_jersey_number
+Description: For every 'nation_jersey_number' in the table, which has a national jersey number, the sample values for the given column and their values are shown in the form A on the left side and B
+------------------------------------------------------------
+Column: preferred_foot
+Description: The preferred_foot is left.
+------------------------------------------------------------
+Column: weak_foot
+Description: weak_foot
+------------------------------------------------------------
+Column: skill_moves
+Description: 0
+------------------------------------------------------------
+Column: international_reputation
+Description: international_reputation
+------------------------------------------------------------
+Column: work_rate
+Description: work_rate
+------------------------------------------------------------
+Column: body_type
+Description: Body_type
+------------------------------------------------------------
+Column: real_face
+Description: No
+------------------------------------------------------------
+Column: release_clause_eur
+Description: Sample values: 12350000.0, 17800000.0, 210400000.0, 24620000.0, 185500000.0, 186900000.0, 181000000.0, 186300000.0, 157900000.0
+------------------------------------------------------------
+Column: player_tags
+Description: Sample values: #Dribbler, #Distance Shooter, #FK Specialist, #Acrobat, #Clinical Finisher, #Complete Forward, Aerial Threat, #Distance Shooter
+------------------------------------------------------------
+Column: player_traits
+Description: Sample values are: Finesse Shot, Spectacle Shot, Outside Foot Shot, Chip Shot (AI), Solid Player, Finesse Shot, Long Shot Taker (AI), Speed Dribbler (AI), Outside Foot Shot
+------------------------------------------------------------
+Column: pace
+Description: Distance, number, position, club and game
+------------------------------------------------------------
+Column: shooting
+Description: The shooting data were scored on 3 points for x.
+------------------------------------------------------------
+Column: passing
+Description: Statistics from FIFA 22 are based on the passing of the first round with the highest score for passing, followed by the final score for pass, and a score for passing. The sampling methods and algorithms of FIFA 22 reflect individual data to
+------------------------------------------------------------
+Column: dribbling
+Description: Sample values for 'dribbling' and 'dribbling' refer to the same column.
+------------------------------------------------------------
+Column: defending
+Description: Defending = abr>
+------------------------------------------------------------
+Column: physic
+Description: The column describes the values for physical statistics.
+------------------------------------------------------------
+Column: attacking_crossing
+Description: The number of sampled attacks and combinations is 1.44
+------------------------------------------------------------
+Column: attacking_finishing
+Description: The attacking_finishing score is the number of total points scored during the contest.
+------------------------------------------------------------
+Column: attacking_heading_accuracy
+Description: The offensive heading accuracy for the football league was 68.741 points and the defensive heading accuracy was 97.355.
+------------------------------------------------------------
+Column: attacking_short_passing
+Description: Analysis of field test data from FIFA 22.
+------------------------------------------------------------
+Column: attacking_volleys
+Description: Analysis of attacking_volleys.
+------------------------------------------------------------
+Column: skill_dribbling
+Description: The sample values indicated skill_dribbling in FIFA 22.
+------------------------------------------------------------
+Column: skill_curve
+Description: It is the skill curve in the ranking task.
+------------------------------------------------------------
+Column: skill_fk_accuracy
+Description: The number of scores on the skill fk accuracy test for FIFA 22's skill fk accuracy dataset shows an upward trend to accuracy. The number of scores on the skill fk accuracy test shows an upward trend to accuracy.
+------------------------------------------------------------
+Column: skill_long_passing
+Description: The football skill long passing list.
+------------------------------------------------------------
+Column: skill_ball_control
+Description: The sample values for skill ball control include 348, 477, 363 and 388.
+------------------------------------------------------------
+Column: movement_acceleration
+Description: The number of movements in the movement acceleration column.
+------------------------------------------------------------
+Column: movement_sprint_speed
+Description: sample values: 79, 88, 89, 76, 97, 50, 74, 75, 52, 90, 69, 91, 63, 65, 47, 55, 87, 53
+------------------------------------------------------------
+Column: movement_agility
+Description: Sample values: 91, 77, 86, 96, 79, 67, 92, 51, 39, 71, 82, 62, 61, 93
+------------------------------------------------------------
+Column: movement_reactions
+Description: sample values:
+------------------------------------------------------------
+Column: movement_balance
+Description: Movement_balance scores were 84-90.
+------------------------------------------------------------
+Column: power_shot_power
+Description: Power shot power in FIFA 22
+------------------------------------------------------------
+Column: power_jumping
+Description: Sample values from the generator are 'power_jumping'.
+------------------------------------------------------------
+Column: power_stamina
+Description: 'power_stamina' is a statistic that measures number of strikes, especially long. It's column was analyzed to find percentages of intercepted strikes.
+------------------------------------------------------------
+Column: power_strength
+Description: Average power_strength = power_strength and average power_strength = power_strength.
+------------------------------------------------------------
+Column: power_long_shots
+Description: Power_long_shots represents two power ball combinations.
+------------------------------------------------------------
+Column: mentality_aggression
+Description: Mental aggression in football
+------------------------------------------------------------
+Column: mentality_interceptions
+Description: Mental interceptions
+------------------------------------------------------------
+Column: mentality_positioning
+Description: The distribution is normalized to match position from the sample.
+------------------------------------------------------------
+Column: mentality_vision
+Description: Mental vision represents the majority of the sample with an average of 436.92.
+------------------------------------------------------------
+Column: mentality_penalties
+Description: The statistic used is 'mentality_penalties'
+------------------------------------------------------------
+Column: mentality_composure
+Description: Mentality is the measure of a player's degree of mental well-being according to the player's score in the football match. The sample values to the right of 'mentality_composure' can be found in
+------------------------------------------------------------
+Column: defending_marking_awareness
+Description: Sample values for defending_marking awareness.
+------------------------------------------------------------
+Column: defending_standing_tackle
+Description: This column comprises the defending standing tackle.
+------------------------------------------------------------
+Column: defending_sliding_tackle
+Description: The defensive sliding tackle scored the most points (5, 118 and 66) during the match.
+------------------------------------------------------------
+Column: goalkeeping_diving
+Description: Goalkeeping diving score summary
+------------------------------------------------------------
+Column: goalkeeping_handling
+Description: Goalkeeping handling is a problem.
+------------------------------------------------------------
+Column: goalkeeping_kicking
+Description: Data on goalkeeping kicking.
+------------------------------------------------------------
+Column: goalkeeping_positioning
+Description: Determining goalkeeping position during a game.
+------------------------------------------------------------
+Column: goalkeeping_reflexes
+Description: Goalkeeping reflexes
+------------------------------------------------------------
+Column: goalkeeping_speed
+Description: Goalkeeping speed = 14.5/55.0/56.0/52.0 44.0 0.5 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+------------------------------------------------------------
+Column: ls
+Description: 89+3, 90+2, 90+2, 83+3, 33+3, 40+3, 35+3, 88+2, 72+3, 87+2, 31+3, 85+3, 76+3, 70+3, 86
+------------------------------------------------------------
+Column: st
+Description: 23+3
+------------------------------------------------------------
+Column: rs
+Description: 26+6, 89+3
+------------------------------------------------------------
+Column: lw
+Description: sample values vary from 32 to 84, with 87 indicating field goals, 49 indicating non-field goals, 50 indicating field goals, 10 indicating goal scoring, 22 indicating goals scored, 14 indicating no field goals
+------------------------------------------------------------
+Column: lf
+Description: Fourteen football stats for 12 games: 68, 58, 92, 113, 43, 40, 38, 74, 38, 78, 72, 30, 121, 32, 32, 37, 39,
+------------------------------------------------------------
+Column: cf
+Description: 79, 39, 37, 27, 47, 77, 23, 27, 6, 27, 37, 84, 34, 27
+------------------------------------------------------------
+Column: rf
+Description: Total score for column 'rf'
+------------------------------------------------------------
+Column: rw
+Description: Figures for soccer from FIFA 22. Column number "rw" identifies samples of soccer from FIFA 22. Table 1 The number of clubs with the rw code.
+------------------------------------------------------------
+Column: lam
+Description: 15
+------------------------------------------------------------
+Column: cam
+Description: 86+3, 89+3
+------------------------------------------------------------
+Column: ram
+Description: 'ram' = '9 +3 + 37 +3 + 23 +3
+------------------------------------------------------------
+Column: lm
+Description: The number of matches played (number of matches played) represents the number of total matches played, which is a set of total scores.
+------------------------------------------------------------
+Column: lcm
+Description: 'lcm' shows the number of games that have been held of the highest percentage, resulting in a score above the 50% threshold.
+------------------------------------------------------------
+Column: cm
+Description: The "cm %" column represents the averaged value of all football clubs
+------------------------------------------------------------
+Column: rcm
+Description: 0+3+8+3+19+6+8+3+1=9+3+2=8+3+5+3+1+4+9+3+7+5+7+7+
+------------------------------------------------------------
+Column: rm
+Description: rm
+------------------------------------------------------------
+Column: lwb
+Description: 36
+------------------------------------------------------------
+Column: ldm
+Description: 6
+------------------------------------------------------------
+Column: cdm
+Description: cdm
+------------------------------------------------------------
+Column: rdm
+Description: 'rdm' represents a player's position, which plays in the match.
+------------------------------------------------------------
+Column: rwb
+Description: the average score
+------------------------------------------------------------
+Column: lb
+Description: lb
+------------------------------------------------------------
+Column: lcb
+Description: lcb
+------------------------------------------------------------
+Column: cb
+Description: 23+3, 51+3, 39+3, 75+3, 91+3, 60+3, 33+3, 54+3, 33+3, 54+3, 34+3, 61+3, 84+3, 55+3, 29+3, 
+------------------------------------------------------------
+Column: rcb
+Description: The player was selected for the team rcb.
+------------------------------------------------------------
+Column: rb
+Description: 
+------------------------------------------------------------
+Column: gk
+Description: gk
+------------------------------------------------------------
+Column: player_face_url
+Description: A person with a 'play_face_url' character has a player in his/her face. Player_face_url value can be obtained from a number of websites such as http://www.fifa.
+------------------------------------------------------------
+Column: club_logo_url
+Description: Football club_logo_url
+------------------------------------------------------------
+Column: club_flag_url
+Description: Sample values are 'club_flag_url' and 'club_flag_url'.
+------------------------------------------------------------
+Column: nation_logo_url
+Description: Nation logo url: 'nation_logo_url'
+------------------------------------------------------------
+Column: nation_flag_url
+Description: Flags: wa na
+------------------------------------------------------------

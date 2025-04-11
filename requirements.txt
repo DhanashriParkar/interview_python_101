@@ -3,3 +3,6 @@ sqlalchemy
 pymysql
 requests
 cryptography
+transformers
+torch
+seaborn
