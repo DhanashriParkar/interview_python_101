@@ -83,9 +83,9 @@ print("Check for Suspicious Users:")
 for user,entries in logs_dict_set.items():
 
     # Sort user entries by time
-    sorted_entries = sorted(entries, key=lambda x: x[2])
-    window_start = sorted_entries[0][2]
-    window_end = window_start + timedelta(hours=24)
+    sorted_entries = sorted(entries, key=lambda x: x[2]) #Use the 3rd element in each tuple to sort the list entries
+    window_start = sorted_entries[0][2] #sorted_entries[0] gives us the first login tuple and [2] gives us that timestamp
+    window_end = window_start + timedelta(hours=24) # "+" timedelta(hours=24) is adding 24 hours to the start time
 
     # Filter entries in 24-hour window
     filtered = [(ip, machine) for ip, machine, timestamp in sorted_entries if window_start <= timestamp < window_end]
